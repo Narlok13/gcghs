@@ -1,0 +1,17 @@
+G:\c#\GCGHS\GCGHS\bin\Release\GCGHS.exe.config
+G:\c#\GCGHS\GCGHS\bin\Release\GCGHS.exe
+G:\c#\GCGHS\GCGHS\bin\Release\GCGHS.pdb
+G:\c#\GCGHS\GCGHS\bin\Release\System.ValueTuple.dll
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.csproj.ResolveComReference.cache
+G:\c#\GCGHS\GCGHS\obj\Release\MainWindow.g.cs
+G:\c#\GCGHS\GCGHS\obj\Release\NewWorker.g.cs
+G:\c#\GCGHS\GCGHS\obj\Release\App.g.cs
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS_MarkupCompile.cache
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS_MarkupCompile.lref
+G:\c#\GCGHS\GCGHS\obj\Release\MainWindow.baml
+G:\c#\GCGHS\GCGHS\obj\Release\NewWorker.baml
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.g.resources
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.Properties.Resources.resources
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.csproj.GenerateResource.Cache
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.exe
+G:\c#\GCGHS\GCGHS\obj\Release\GCGHS.pdb
